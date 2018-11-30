@@ -106,3 +106,4 @@ venv.bak/
 .idea/workspace.xml
 #tensorflow
 logs/
+net/
